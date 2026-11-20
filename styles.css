@@ -1,1 +1,27 @@
 /* your code */
+ table {
+            width: 60%;
+            border-collapse: collapse;
+            margin: 20px auto;
+            font-family: Arial, sans-serif;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 12px;
+            text-align: center;
+        }
+
+        thead {
+            background-color: #2563eb;
+            color: white;
+        }
+
+        tbody {
+            background-color: #f1f5f9;
+        }
+
+        h1 {
+            text-align: center;
+            color: #1e293b;
+        }
